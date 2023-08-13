@@ -5,7 +5,7 @@
 string，number，boolean，undefined，null，symbol（es6），BigInt（es10），object
 
 1. typeof
-
+ 
 2. instanceof
 
 3. Object.prototype.toString.call
@@ -19,6 +19,8 @@ string，number，boolean，undefined，null，symbol（es6），BigInt（es10�
 ## 作用域和闭包
 
 ## 原型和原型链
+
+每个对象的实例都有一个_proto_属性
 
 ## call/apply/bind
 
